@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @appertj
-- 👀 I’m interested in work in computer programming and data analytics.
-- 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Josiah!
+- 👀 I’m interested in work in data analytics and software development.
+- 🌱 I’m currently learning React.
+- 💞️ I’m looking to collaborate on anything challenging and fun!
+- 📫 How to reach me: www.linkedin.com/in/josiah-appert-459184169
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm currently sprouting hot pepper seeds and have a bag of green and red serranos in the freezer from last year.
 
 <!---
 appertj/appertj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
